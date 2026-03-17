@@ -248,4 +248,4 @@ Built with ❤️ by **k4rim0sama**
 
 ---
 
-> **Wolf Eye Dashboard** is a companion tool. It requires [Wolf Eye](https://github.com/k4rim0sama/wolf_eye) to run scans — the dashboard itself only provides the UI layer.
+> **Wolf Eye Dashboard** is a companion tool. It requires [Wolf Eye](https://github.com/KarimOsama99/w0lf) to run scans — the dashboard itself only provides the UI layer.
